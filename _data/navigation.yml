@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching & Mentoring"
+    url: /teaching/
+  - title: "Talks"
+    url: /talks/
+  - title: "Service"
+    url: /service/
+  - title: "Academic Profile"
+    url: /cv/

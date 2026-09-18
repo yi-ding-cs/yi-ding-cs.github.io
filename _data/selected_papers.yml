@@ -1,0 +1,35 @@
+- title: "EmT: A Novel Transformer for Generalized Cross-subject EEG Emotion Recognition"
+  image: "/images/papers/EmT.png"
+  authors: "Yi Ding, Chengxuan Tong, Shuailei Zhang, Muyun Jiang, Yong Li, Kevin JunLiang Lim, Cuntai Guan"
+  venue: "IEEE TNNLS, 2025"
+  summary: "A neurophysiology-inspired graph-transformer that models spatial interactions and long-range temporal context for generalized EEG emotion classification and regression."
+  paper: "https://ieeexplore.ieee.org/document/10960695"
+  code: "https://github.com/yi-ding-cs/EmT"
+  highly_cited: true
+
+- title: "EEG-Deformer: A Dense Convolutional Transformer for Brain-Computer Interfaces"
+  image: "/images/papers/Deformer.png"
+  authors: "Yi Ding, Yong Li, Hao Sun, Rui Liu, Chengxuan Tong, Chenyu Liu, Xinliang Zhou, Cuntai Guan"
+  venue: "IEEE J-BHI, 2025"
+  summary: "A dense coarse-to-fine convolutional Transformer for robust neural decoding across attention, fatigue, and mental-workload BCI tasks."
+  paper: "https://ieeexplore.ieee.org/document/10763464"
+  code: "https://github.com/yi-ding-cs/EEG-Deformer"
+  highly_cited: true
+
+- title: "LGGNet: Learning From Local-Global-Graph Representations for Brain-Computer Interface"
+  image: "/images/papers/LGGNet.png"
+  authors: "Yi Ding, Neethu Robinson, Chengxuan Tong, Qiuhao Zeng, Cuntai Guan"
+  venue: "IEEE TNNLS, 2023"
+  summary: "A neurologically inspired graph neural network that explicitly models activity within and across functional brain regions for EEG decoding."
+  paper: "https://ieeexplore.ieee.org/document/10025569"
+  code: "https://github.com/yi-ding-cs/LGG"
+  highly_cited: true
+
+- title: "TSception: Capturing Temporal Dynamics and Spatial Asymmetry from EEG for Emotion Recognition"
+  image: "/images/papers/TSception.png"
+  authors: "Yi Ding, Neethu Robinson, Su Zhang, Qiuhao Zeng, Cuntai Guan"
+  venue: "IEEE TAFFC, 2022"
+  summary: "A multi-scale CNN that captures EEG temporal dynamics and hemispheric spatial asymmetry for affective brain-computer interfaces."
+  paper: "https://ieeexplore.ieee.org/document/9762054"
+  code: "https://github.com/yi-ding-cs/TSception"
+  highly_cited: true

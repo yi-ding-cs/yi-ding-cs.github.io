@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="EEG-Deformer visual summary">
+  <rect width="800" height="500" fill="#f7f9fc"/>
+  <text x="45" y="62" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#4b2e83">EEG-Deformer</text>
+  <text x="45" y="95" font-family="Arial,sans-serif" font-size="18" fill="#675b7b">Coarse-to-fine temporal decoding</text>
+  <path d="M50 175 C85 95,120 255,155 175 S225 95,260 175 S330 255,365 175" fill="none" stroke="#6b46c1" stroke-width="6"/>
+  <g font-family="Arial" font-size="16" text-anchor="middle">
+    <rect x="410" y="120" width="120" height="70" rx="10" fill="#eee7ff" stroke="#6b46c1" stroke-width="3"/><text x="470" y="150" fill="#4b2e83">HCT</text><text x="470" y="174" fill="#4b2e83">coarse</text>
+    <rect x="555" y="120" width="120" height="70" rx="10" fill="#eee7ff" stroke="#6b46c1" stroke-width="3"/><text x="615" y="150" fill="#4b2e83">HCT</text><text x="615" y="174" fill="#4b2e83">fine</text>
+    <rect x="485" y="245" width="130" height="70" rx="10" fill="#e6f5ef" stroke="#2f855a" stroke-width="3"/><text x="550" y="275" fill="#276749">Dense</text><text x="550" y="299" fill="#276749">purification</text>
+  </g>
+  <g stroke="#566" stroke-width="4" fill="none"><path d="M365 175 H400"/><path d="M530 155 H545"/><path d="M470 195 V235"/><path d="M615 195 V235"/></g>
+  <rect x="45" y="390" width="710" height="55" rx="12" fill="#f0ebfa"/>
+  <text x="400" y="425" text-anchor="middle" font-family="Arial" font-size="22" fill="#4b2e83">Robust BCI decoding across cognitive states</text>
+</svg>
