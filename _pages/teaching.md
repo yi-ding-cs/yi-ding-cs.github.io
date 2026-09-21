@@ -22,15 +22,16 @@ I supervise and mentor postgraduate and undergraduate researchers working in EEG
 
 ## Undergraduate mentoring
 
-| Period       | Student                            |
-|--------------|------------------------------------|
-| 2024–present | Zhou Runhe (Undergraduate, NTU)    |
-| 2025–present | Jiang Mingkai (Undergraduate, XMU) |
-| 2024–2025    | Isaac Hong Zhang Jie (FYP, NTU)    |
-| 2023–2024    | Lee Joon Hei (FYP, NTU)            |
-| 2021–2024    | An Ruyi (URECA & FYP, NTU)         |
-| 2022–2023    | Jethro Phuah An Ping (FYP, NTU)    |
-| 2021–2022    | Kong Hou Jing (FYP, NTU)           |
-| 2020–2021    | Gan Kah Ee (URECA, NTU)            |
-| 2020–2021    | Yuhan Zhang (URECA, NTU)           |
-| 2020–2021    | Nigel Wei Jun Ang (FYP, NTU)       |
+| Period       | Student                                 |
+|--------------|-----------------------------------------|
+| 2024–present | Zhou Runhe (Undergraduate, NTU)         |
+| 2026–present | Cheng Guo (Visiting Undergraduate, THU) |
+| 2025–present | Jiang Mingkai (Undergraduate, XMU)      |
+| 2024–2025    | Isaac Hong Zhang Jie (FYP, NTU)         |
+| 2023–2024    | Lee Joon Hei (FYP, NTU)                 |
+| 2021–2024    | An Ruyi (URECA & FYP, NTU)              |
+| 2022–2023    | Jethro Phuah An Ping (FYP, NTU)         |
+| 2021–2022    | Kong Hou Jing (FYP, NTU)                |
+| 2020–2021    | Gan Kah Ee (URECA, NTU)                 |
+| 2020–2021    | Yuhan Zhang (URECA, NTU)                |
+| 2020–2021    | Nigel Wei Jun Ang (FYP, NTU)            |
