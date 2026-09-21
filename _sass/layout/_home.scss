@@ -54,6 +54,15 @@
   background: var(--global-code-background-color);
 }
 
+[data-theme="dark"] .research-keywords span,
+html[data-theme="dark"] .research-keywords span,
+body.dark .research-keywords span,
+.dark .research-keywords span {
+  background: rgba(72, 169, 197, 0.12) !important;
+  color: var(--global-link-color) !important;
+  border-color: var(--global-link-color) !important;
+}
+
 .news-scroll {
   max-height: 420px;
   overflow-y: auto;
