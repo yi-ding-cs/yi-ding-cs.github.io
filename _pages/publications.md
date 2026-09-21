@@ -39,52 +39,62 @@ For citation counts and the most up-to-date record, see my [Google Scholar profi
    *IEEE Signal Processing Magazine, 2025.* **Corresponding Author**  
    [Paper](https://ieeexplore.ieee.org/document/11306240) · [PDF](https://arxiv.org/pdf/2503.00580)
 
-7. **Decoupled Hierarchical Distillation for Multimodal Emotion Recognition**  
+7. **BiT-MamSleep: Bidirectional Temporal Mamba for EEG Sleep Staging**  
+   Xinliang Zhou, Yuzhe Han, Zhisheng Chen, Chenyu Liu, **Yi Ding**, Ziyu Jia, Yang Liu  
+   *IEEE Transactions on Emerging Topics in Computational Intelligence, 2026 DOI: 10.1109/TETCI.2026.3728064.* **Corresponding Author**
+   [Paper](https://arxiv.org/abs/2411.01589) · [PDF](https://arxiv.org/pdf/2411.01589)
+
+8. **Neuroscience-Inspired Hierarchical GNN for Grasping Attempt Classification**  
+   Xiaohao Lin, Yucheng Wang, **Yi Ding**, Shuailei Zhang, Zhenghua Chen, Min Wu, Muyun Jiang, Kavitha Thomas, Neethu Robinson, Han Wei Ng, Nishka Khendry, Aung Aung Phyo Wai, Wenjin Xiao, Christopher Wee Keong Kuah, Seng Kwee Wee, Karen Sui Geok Chua, Cuntai Guan  
+   *IEEE Journal of Biomedical and Health Informatics, 2026.*  
+   [Paper](https://ieeexplore.ieee.org/abstract/document/11611633) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11611633)
+
+9. **Decoupled Hierarchical Distillation for Multimodal Emotion Recognition**  
    Yong Li, Yuanzhi Wang, **Yi Ding**, Shiqing Zhang, Ke Lu, Cuntai Guan.  
    *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.*  
    [Paper](https://ieeexplore.ieee.org/document/11370718) · [PDF](https://arxiv.org/pdf/2602.04260)
 
-8. **Decoding Covert Speech from EEG Using a Functional Areas Spatio-Temporal Transformer**  
+10. **Decoding Covert Speech from EEG Using a Functional Areas Spatio-Temporal Transformer**  
    Muyun Jiang, Wei Zhang, **Yi Ding**, et al.  
    *IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025.*  
    [Paper](https://ieeexplore.ieee.org/document/11345934) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11345934)· [Code](https://github.com/Jiang-Muyun/FAST/)
 
-9. **Decoding Olfactory Response from Neurophysiological Signal with a Multi-modal Deep Learning Framework**  
+11. **Decoding Olfactory Response from Neurophysiological Signal with a Multi-modal Deep Learning Framework**  
    Chengxuan Tong, **Yi Ding**, Aung Aung Phyo Wai, Hui Xin Joanna Chua, Xiaorong Wu, Kevin JunLiang Lim, Cuntai Guan.  
    *Neural Networks, 2025.*  
    [Paper](https://www.sciencedirect.com/science/article/pii/S0893608025006550)· [PDF](https://pdf.sciencedirectassets.com/271125/1-s2.0-S0893608025X00083/1-s2.0-S0893608025006550/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEGXQQgKn0cG1LvCzvKlvNEIa0H9WxiZ8n9Fx3yocq4CAiBLQuk0VYkK6LG5HQcEEf3AlNQNsYKq2Zm7XOxYO7%2FOASq8BQiC%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMPasCz9g%2BFechyVF3KpAFb3cR%2FLb8Uon3HNa%2BKFyzCL4Cd1tun%2FRKm0YTtY8sHt6GRU9qIkHeKB1JdtbzPkKYBGgugCHhO9avQ%2FdaZOi%2BJXa9kvxXtbflyKCtk0qYac1ZHLzuyPeob37UoFgWdXv4TH6g1XBDCSUQxFlN6UZXX7K2ICoghZ6v%2F6O25MoSx196FB6R3xNFLZ7MsmCT0B%2BlD97DRNhVZ3ox1IeFn%2BEq7BnOW0T0LPKdzzQWSwdGCXp8bbNM959pp1fjUnhjwNP1a2IzxMLypEbmaHPcadpjnrJ7%2FRyTLP1YKtOnS4bBd%2F58TXGjrXo9EIgzwXDfjrHJ2gJNP%2BMltlaTwL4%2FghTc8BCZcJ%2Fdl5T0i5F9YHrA99AbZG2PaKgGxLIV97G1c%2FCBVCHARfEOG1%2BHKm4Xn3My%2BZUzEa9NxfaglQLHtf2sbQpgAtqIPW3oVwNoaRRFAp4vDbpZSIEjvT%2Fa3eVdPHjAi0EE%2BsdZjBF7wdrllGhs3NMn%2BlRLce4QboiD8pEuDQpZJRU06dWJqAYUN4Yyvoy6%2BsBBIZUtBPtxAM03XhEn3c2Fon1i4tZ4AhFO%2FxPEKv%2FVww8nM%2FQBaSWTwZelG9h5CkZPtNOsMb2DK%2FWvRqjQZm8RJmS2SdCobQejeIwOStCSDWDZzQO29NBLL%2F0dX50LxrkU14PIq5p3%2BiYuFfs%2FR1SQKQ2568UzEihgPpMsivSQn9nQP%2FcbUbhrRgFJLqhlO7TA7Il5qvUd6iOJIjP5F1%2FdhsiXZSO8bcaZHqX0cG7lwbIHpf74gtF3xaQTxhV2JlqgohmpTyy%2FzOkEl0b8drJL5TWbJk%2Fg9psAnLAWrKD%2F0DNq2bvD5iatMUApVcoToZcRr9yogXqow9o6UhoBI70wtYjC1QY6sgF9wiVYDoobnvnbRfDwY9d%2Btw8LMOhbvmvbwLWsd8cqjS2veGqlCLq2BddvZtHUCvFi%2BO%2F6B0hJ5g7XZWTsn6Rt2LQhIvi5w03hSxd5RHWAcxqvZ%2F2tTlpCzsW7q3VPCeNRCubZ88K3PRBurx21r7WIXnRXRoJ1ZlVWUNTh668RGxOY0APoC%2FdQV6eYQ%2FzhTeGcs86KcM2i2JhDj2UOpjcxonHT3LYPiF6PsEQ1CDaxKWOs&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260921T023903Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYXFHFSSWH%2F20260921%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8df996da831c39649517c7aba28c03c95a157979ab8b827e2a3ae4bd7c974327&hash=e32071f3b186b09be66ebef1d541383c4dfb14fd9582d813f093db41e7b3f8ff&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0893608025006550&tid=spdf-2d990f24-27c3-4713-8a31-2db2c6544424&sid=89183aa37074c74ee82a1eb9db358c745468gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=150905560253075c5607&rr=a3e5b27b5b92ce79&cc=sg)
 
-10. **SRRNet: Unseen SSVEP Response Regression from Stimulus for Cross-Stimulus Transfer in SSVEP-BCIs**  
+12. **SRRNet: Unseen SSVEP Response Regression from Stimulus for Cross-Stimulus Transfer in SSVEP-BCIs**  
     Ximing Mai, Jianjun Meng, **Yi Ding**, Xiangyang Zhu, Cuntai Guan.  
     *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2025.*  
     [Paper](https://ieeexplore.ieee.org/document/10964365) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964365) · [Code](https://github.com/MaiXiming/SRRNet)
 
-11. **Decoupled Doubly Contrastive Learning for Cross Domain Facial Action Unit Detection**  
+13. **Decoupled Doubly Contrastive Learning for Cross Domain Facial Action Unit Detection**  
     Yong Li, Menglin Liu, Zhen Cui, **Yi Ding**, Yuan Zong, Wenming Zheng, Shiguang Shan, Cuntai Guan.  
     *IEEE Transactions on Image Processing (TIP), 2025.*  
     [Paper](https://ieeexplore.ieee.org/document/10914502) · [PDF](https://arxiv.org/pdf/2503.08977)
 
-12. **Beyond Overfitting: Doubly Adaptive Dropout for Generalizable AU Detection**  
+14. **Beyond Overfitting: Doubly Adaptive Dropout for Generalizable AU Detection**  
     Yong Li, Yi Ren, Xuesong Niu, **Yi Ding**, Xiu-Shen Wei, Cuntai Guan.  
     *IEEE Transactions on Affective Computing (TAFFC), 2025.*  
     [Paper](https://ieeexplore.ieee.org/document/10904329) · [PDF](https://arxiv.org/pdf/2503.08974)
 
-13. **REI-Net: A Reference Electrode Standardization Interpolation Technique Based 3D CNN for Motor Imagery Classification**  
+15. **REI-Net: A Reference Electrode Standardization Interpolation Technique Based 3D CNN for Motor Imagery Classification**  
     Meiyan Xu, Jie Jiao, Duo Chen, **Yi Ding**, et al.  
     *IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025.*  
     [Paper](https://ieeexplore.ieee.org/document/10758636)
 
-14. **Leveraging Temporal Dependency for Cross-subject MI BCIs by Contrastive Learning and Self-attention**  
+16. **Leveraging Temporal Dependency for Cross-subject MI BCIs by Contrastive Learning and Self-attention**  
     Hao Sun, **Yi Ding**, Jianzhu Bao, Chengxuan Tong, Jing Jin, Cuntai Guan.  
     *Neural Networks, 2024.*  
     [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003940)
 
-15. **TASA: Temporal Attention with Spatial Autoencoder Network for Odor-induced Emotion Classification Using EEG**  
+17. **TASA: Temporal Attention with Spatial Autoencoder Network for Odor-induced Emotion Classification Using EEG**  
     Chengxuan Tong, **Yi Ding**, Kevin Lim Jun Liang, Zhuo Zhang, Haihong Zhang, Cuntai Guan.  
     *IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE), 2024.*  
     [Paper](https://ieeexplore.ieee.org/document/10528328) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528328)
 
-16. **Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning**  
+18. **Aggregating Intrinsic Information to Enhance BCI Performance through Federated Learning**  
     Rui Liu, Yuanyuan Chen, Anran Li, **Yi Ding**, Han Yu, Cuntai Guan.  
     *Neural Networks, 2024.*  
     [Paper](https://arxiv.org/abs/2308.11636) · [PDF](https://arxiv.org/pdf/2308.11636.pdf) · [Code](https://github.com/RuiLiu-cc/FLEEG)
