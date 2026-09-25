@@ -101,17 +101,27 @@ For citation counts and the most up-to-date record, see my [Google Scholar profi
 
 ## Conference Papers
 
-1. **EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts**  
+1. **Process-conditioned Pretraining with Topographic Spatial Retrieval for Large EEG Models**  
+   **Yi Ding**, Muyun Jiang, Weibang Jiang, Shuailei Zhang, Xinliang Zhou, Chenyu Liu, Shanglin Li, Yong Li, Cuntai Guan.  
+   *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.*  
+   [Paper](https://arxiv.org/abs/2509.22050) · [PDF](https://arxiv.org/pdf/2509.22050) · [Code](CODE_LINK)
+
+2. **LEAF: Language-EEG Aligned Foundation Model for Brain-Computer Interfaces**  
+   Muyun Jiang, Shuailei Zhang, Zhenjie Yang, Wu Mengjin, Wei Zhang, Weibang Jiang, Chenyu Liu, Zhiwei Guo, Rui Liu, Shangen Zhang, Yong Li, **Yi Ding**, Cuntai Guan.  
+   *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.* **Corresponding Author**  
+   [Paper](https://arxiv.org/abs/2509.24302) · [PDF](https://arxiv.org/pdf/2509.24302) · [Code](https://github.com/Jiang-Muyun/LEAF)
+
+3. **EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts**  
    Runhe Zhou, Shanglin Li, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Motoaki Kawanabe, **Yi Ding**, Cuntai Guan.  
    *International Conference on Machine Learning (ICML), 2026.* **Corresponding Author**  
    [Paper](https://arxiv.org/abs/2604.12579) · [PDF](https://arxiv.org/pdf/2604.12579) · [Code](https://github.com/zhourunhe/EEG-MoCE)
 
-2. **EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models**  
+4. **EmBrace: A Collective Knowledge Fusion Framework Toward Unified EEG Foundation Models**  
    Ziyu Jia, Junyi Lin, Pu Wang, Jinxin Pi, Jingying Ma, Xinliang Zhou, Peiliang Gong, **Yi Ding**, Chenyu Liu.  
    *International Conference on Machine Learning (ICML), 2026.* **Corresponding Author**  
    [Paper](https://openreview.net/forum?id=BJ5rYj8O8W) · [PDF](https://openreview.net/pdf?id=BJ5rYj8O8W) · [Code](https://github.com/NeoAxiomN/EmBrace)
 
-3. **ECHO: Toward Contextual Seq2Seq Paradigms in Large EEG Models**  
+5. **ECHO: Toward Contextual Seq2Seq Paradigms in Large EEG Models**  
    Chenyu Liu, Yuqiu Deng, Tianyu Liu, Jinan Zhou, Xinliang Zhou, Ziyu Jia, **Yi Ding**.  
    *International Conference on Learning Representations (ICLR), 2026.* **Corresponding Author**  
    [Paper](https://arxiv.org/abs/2509.22556) · [PDF](https://arxiv.org/pdf/2509.22556)
@@ -121,91 +131,96 @@ For citation counts and the most up-to-date record, see my [Google Scholar profi
    *AAAI Conference on Artificial Intelligence, 2026.* **Corresponding Author**  
    [Paper](https://arxiv.org/abs/2512.12210) · [PDF](https://arxiv.org/pdf/2512.12210) · [Code](https://github.com/t170815518/EEG-DLite)
 
-5. **Sera: Separated Coarse-to-fine Representation Alignment for Cross-subject EEG-based Emotion Recognition**  
+6. **Sera: Separated Coarse-to-fine Representation Alignment for Cross-subject EEG-based Emotion Recognition**  
    Zhihao Jia, Meiyan Xu, Jingyuan Wang, Ziyu Jia, Yong Li, Xinliang Zhou, Chenyu Liu, Junfeng Yao, **Yi Ding**.  
    *ACM Multimedia, 2025.* **Corresponding Author**  
    [Paper](https://dl.acm.org/doi/10.1145/3746027.3754775) · [PDF](https://dl.acm.org/doi/pdf/10.1145/3746027.3754775) · [Code](https://github.com/JZH98/Sera-code)
 
-6. **Decoding Human Attentive States from Spatial-temporal EEG Patches Using Transformers**  
+7. **Decoding Human Attentive States from Spatial-temporal EEG Patches Using Transformers**  
    **Yi Ding**, Joon Hei Lee, Shuailei Zhang, Tianze Luo, Cuntai Guan.  
    *IEEE EMBC, 2025.* **Oral**  
    [Paper](https://arxiv.org/abs/2502.03736) · [PDF](https://arxiv.org/pdf/2502.03736) · [Code](https://github.com/yi-ding-cs/EEG-PatchFormer)
 
-7. **SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging Through Selective Domain Alignment**  
+8. **SelectiveFinetuning: Enhancing Transfer Learning in Sleep Staging Through Selective Domain Alignment**  
    Siyuan Zhao, Chenyu Liu, **Yi Ding**, Xinliang Zhou.  
    *IEEE ICASSP, 2025.* **Corresponding Author**  
    [Paper](https://ieeexplore.ieee.org/document/10888948) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888948)
 
-8. **GIGN: Learning Graph-in-graph Representations of EEG Signals for Continuous Emotion Recognition**  
+9. **GIGN: Learning Graph-in-graph Representations of EEG Signals for Continuous Emotion Recognition**  
    **Yi Ding**, Cuntai Guan.  
    *IEEE EMBC, 2023.* **Oral**  
    [Paper](https://ieeexplore.ieee.org/abstract/document/10340644) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10340644) · [Code](https://github.com/yi-ding-cs/GIGN)
 
-9. **Learning Generalized Representations of EEG between Multiple Cognitive Attention Tasks**  
+10. **Learning Generalized Representations of EEG between Multiple Cognitive Attention Tasks**  
    **Yi Ding**, Nigel Wei Jun Ang, Aung Aung Phyo Wai, Cuntai Guan.  
    *IEEE EMBC, 2021.*  
    [Paper](https://ieeexplore.ieee.org/abstract/document/9629575) · [PDF](https://paperhost.org/proceedings/embs/EMBC21/files/0591.pdf)
 
-10. **Continuous Emotion Recognition With Audio-Visual Leader-Follower Attentive Fusion**  
+11. **Continuous Emotion Recognition With Audio-Visual Leader-Follower Attentive Fusion**  
     Su Zhang, **Yi Ding**, Ziquan Wei, Cuntai Guan.  
     *IEEE/CVF ICCV Workshops, 2021.* **Equal Contribution**  
     [Paper](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/html/Zhang_Continuous_Emotion_Recognition_With_Audio-Visual_Leader-Follower_Attentive_Fusion_ICCVW_2021_paper.html) · [PDF](https://openaccess.thecvf.com/content/ICCV2021W/ABAW/papers/Zhang_Continuous_Emotion_Recognition_With_Audio-Visual_Leader-Follower_Attentive_Fusion_ICCVW_2021_paper.pdf) · [Code](https://github.com/sucv/ABAW2)
 
-11. **TSception: A Deep Learning Framework for Emotion Detection Using EEG**  
+12. **TSception: A Deep Learning Framework for Emotion Detection Using EEG**  
     **Yi Ding**, Neethu Robinson, Qiuhao Zeng, Duo Chen, Aung Aung Phyo Wai, Tih-Shih Lee, Cuntai Guan.  
     *International Joint Conference on Neural Networks (IJCNN), 2020.*  
     [Paper](https://ieeexplore.ieee.org/abstract/document/9206750) · [PDF](https://arxiv.org/pdf/2004.02965.pdf) · [Code](https://github.com/deepBrains/TSception)
 
-12. **REM-Flow: Robust and Extensible Multi-Center Sleep Staging via Generative Knowledge Replay**  
+13. **DEFT: Disentanglement-Enhanced Fine-Tuning for EEG Foundation Models**  
+   Yuqiu Deng, Muyun Jiang, Zongpeng Zhang, Mingqing Xiao, Yansen Wang, Peiliang Gong, Xinliang Zhou, **Yi Ding**, Ziyu Jia, Cuntai Guan, Chenyu Liu.  
+   *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026.* **Poster**  
+   [Paper](PAPER_LINK) · [PDF](PDF_LINK) · [Code](CODE_LINK)
+
+14. **REM-Flow: Robust and Extensible Multi-Center Sleep Staging via Generative Knowledge Replay**  
     Xiaojun Ning, Jing Wang, Chenzhang Li, Shaowen Wan, Ruiming Tian, Xiyuan Jin, **Yi Ding**, Ziyu Jia, Youfang Lin.  
     *ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026.*  
     [Paper](https://dl.acm.org/doi/10.1145/3770855.3817622) ·[Code](https://github.com/NingXJ99/REM-Flow)
 
-13. **Graph Neural Networks in EEG-based Emotion Recognition: A Survey**  
+15. **Graph Neural Networks in EEG-based Emotion Recognition: A Survey**  
     Chenyu Liu, Xinliang Zhou, Yihao Wu, Ruizhi Yang, Zhongruo Wang, **Yi Ding**, Liming Zhai, Ziyu Jia, Yang Liu.  
     *PAKDD, 2026.*  
     [Paper](https://link.springer.com/chapter/10.1007/978-981-92-1947-6_46) · [PDF](https://arxiv.org/pdf/2402.01138)
 
-14. **Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning**  
+16. **Uni-NTFM: A Unified Foundation Model for EEG Signal Representation Learning**  
     Zhisheng Chen, Yingwei Zhang, Qizhen Lan, Tianyu Liu, Huacan Wang, **Yi Ding**, Ziyu Jia, Ronghao Chen, Kun Wang, Xinliang Zhou.  
     *International Conference on Learning Representations (ICLR), 2026.*  
     [Paper](https://arxiv.org/abs/2509.24222) · [PDF](https://arxiv.org/pdf/2509.24222)
 
-15. **HEEGNet: Hyperbolic Embeddings for EEG**  
+17. **HEEGNet: Hyperbolic Embeddings for EEG**  
     Shanglin Li, Shiwen Chu, Okan Koç, **Yi Ding**, Qibin Zhao, Motoaki Kawanabe, Ziheng Chen.  
     *International Conference on Learning Representations (ICLR), 2026.*  
     [Paper](https://arxiv.org/abs/2601.03322) · [PDF](https://arxiv.org/pdf/2601.03322)· [Code](https://github.com/fightlesliefigt/HEEGNet)
 
-16. **REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset**  
+18. **REFED: A Subject Real-time Dynamic Labeled EEG-fNIRS Synchronized Recorded Emotion Dataset**  
     Xiaojun Ning, Jing Wang, Zhiyang Feng, Tianzuo Xin, Shuo Zhang, Shaoqi Zhang, Zheng Lian, **Yi Ding**, Youfang Lin, Ziyu Jia.  
     *NeurIPS, 2025.*  
     [Paper](https://openreview.net/forum?id=C4IqLzavel) · [PDF](https://openreview.net/pdf?id=C4IqLzavel)
 
-17. **CAT-Net: A Co-Adaptive Transfer Learning Network for BCI-Assisted Neurorehabilitation**  
+19. **CAT-Net: A Co-Adaptive Transfer Learning Network for BCI-Assisted Neurorehabilitation**  
     Shuailei Zhang, **Yi Ding**, Muyun Jiang, Ning Tang, Effie Chew, Kai Keng Ang, Cuntai Guan.  
     *IEEE ICASSP, 2025.* **Oral**  
     [Paper](https://ieeexplore.ieee.org/document/10889107) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889107)
 
-18. **MTDN: Learning Multiple Temporal Dynamics Representation for Emotional Valence Classification with EEG**  
+20. **MTDN: Learning Multiple Temporal Dynamics Representation for Emotional Valence Classification with EEG**  
     Chengxuan Tong, **Yi Ding**, Kevin Lim Jun Liang, Cuntai Guan.  
     *IEEE EMBC, 2023.*  
     [Paper](https://ieeexplore.ieee.org/abstract/document/10340760) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10340760)
 
-19. **TESANet: Self-attention Network for Olfactory EEG Classification**  
+21. **TESANet: Self-attention Network for Olfactory EEG Classification**  
     Chengxuan Tong, **Yi Ding**, Kevin Lim Jun Liang, Zhuo Zhang, Haihong Zhang, Cuntai Guan.  
     *International Joint Conference on Neural Networks (IJCNN), 2022.*  
     [Paper](https://ieeexplore.ieee.org/document/9892920) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9892920)
 
-20. **Continuous Emotion Recognition Using Visual-Audio-Linguistic Information: A Technical Report for ABAW3**  
+22. **Continuous Emotion Recognition Using Visual-Audio-Linguistic Information: A Technical Report for ABAW3**  
     Su Zhang, Ruyi An, **Yi Ding**, Cuntai Guan.  
     *IEEE/CVF CVPR Workshops, 2022.* **Runner-up, ABAW Valence-Arousal Challenge**  
     [Paper](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/html/Zhang_Continuous_Emotion_Recognition_Using_Visual-Audio-Linguistic_Information_A_Technical_Report_for_CVPRW_2022_paper.html) · [PDF](https://openaccess.thecvf.com/content/CVPR2022W/ABAW/papers/Zhang_Continuous_Emotion_Recognition_Using_Visual-Audio-Linguistic_Information_A_Technical_Report_for_CVPRW_2022_paper.pdf) · [Code](https://github.com/sucv/ABAW3)
 
-21. **Motor-Controlled Spindle (MCS) Detection for Primate in BCI System**  
+23. **Motor-Controlled Spindle (MCS) Detection for Primate in BCI System**  
     Duo Chen, Rosa So, **Yi Ding**, Cuntai Guan.  
     *International IEEE/EMBS Conference on Neural Engineering (NER), 2019.*  
     [Paper](https://ieeexplore.ieee.org/abstract/document/8717063) · [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8717063)
 
-22. **Intracortical Activity Decoding of Motor Imagery Based on Deep Convolutional Neural Network: A Pilot Study**  
+24. **Intracortical Activity Decoding of Motor Imagery Based on Deep Convolutional Neural Network: A Pilot Study**  
     Duo Chen, Rosa So, **Yi Ding**, Cuntai Guan.  
     *Graz Brain-Computer Interface Conference (GBCIC), 2019.*

@@ -89,7 +89,7 @@ redirect_from:
 
 ## Academic Profile
 
-I have authored or co-authored **30+ peer-reviewed papers** in venues including *IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TAFFC, IEEE J-BHI, IEEE Signal Processing Magazine, ICLR, ICML, NeurIPS, AAAI,* and *ACM Multimedia*. My work spans foundational EEG representation learning, affective BCIs, multimodal emotion modeling, and translation of neural-decoding methods toward healthcare applications.
+I have authored or co-authored **40+ peer-reviewed papers** in venues including *IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TAFFC, IEEE J-BHI, IEEE Signal Processing Magazine, ICLR, ICML, NeurIPS, KDD, AAAI,* and *ACM Multimedia*. My work spans foundational EEG representation learning, affective BCIs, multimodal emotion modeling, and translation of neural-decoding methods toward healthcare applications.
 
 <p>
   <a href="{{ '/cv/' | relative_url }}" class="all-publications-link">
